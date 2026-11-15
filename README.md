@@ -327,3 +327,6 @@ print(f"Prevention: {info['prevention']}")
   <strong>© 2026 Plant Disease Diagnostic System</strong><br>
   Built with Streamlit + PyTorch | Created by <a href="https://github.com/KhushTrivedi445">Khush Trivedi</a>
 </p>
+
+
+Author:Khush Trivedi
